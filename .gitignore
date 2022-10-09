@@ -1,0 +1,4 @@
+node_modules
+public/
+src/dev-data/
+**/dev-data/
